@@ -1,7 +1,7 @@
 <h1 align="center">VPS Statistics Web</h3>
 <p align="center">
-  <a href="https://github.com/hirunaofficial/VPS-Statistics-Web">
-    <img src="https://socialify.git.ci/hirunaofficial/VPS-Statistics-Web/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <a href="https://github.com/Monster-ZeroX/VPS-Statistics-Web">
+    <img src="https://socialify.git.ci/Monster-ZeroX/VPS-Statistics-Web/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 </p>
 
@@ -17,6 +17,6 @@ VPS Statistics Web 📊 can analyze Youre System Informations(OS, Host Name, Rel
 * HDD Usage
 
 #How to Install VPS Statistics Web to Youre VPS ? (Automatic Installer)
-* `wget https://raw.githubusercontent.com/hirunaofficial/VPS-Statistics-Web/main/install.sh`
+* `wget https://github.com/Monster-ZeroX/VPS-Statistics-Web/main/install.sh`
 * `chmod -R 777 install.sh`
 * `./install.sh`
