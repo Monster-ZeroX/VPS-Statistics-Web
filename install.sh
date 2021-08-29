@@ -19,12 +19,12 @@ sudo apt install php libapache2-mod-php
 sudo systemctl restart apache2
 echo "${yellow}Downloading and Installing VPS Statistics Web ${red}(Script By GD Hiruna)${green}"
 cd /var/www/html/
-wget https://github.com/hirunaofficial/VPS-Statistics-Web/archive/refs/heads/main.zip
+wget https://github.com/Monster-ZeroX/VPS-Statistics-Web/archive/refs/heads/main.zip
 unzip main.zip
 rm -R main.zip
 mv /var/www/html/VPS-Statistics-Web-main /var/www/html/VPS-Statistics-Web
 cd /var/www/html/VPS-Statistics-Web
 chmod -R 777 *
 clear
-echo "${yellow}VPS Statistics Web Successfully Installed ${red}(Script By GD Hiruna)"
+echo "${yellow}VPS Statistics Web Successfully Installed ${red}(Script By Monster ZeroX)"
 echo "${green}http://${ip}/VPS-Statistics-Web"
